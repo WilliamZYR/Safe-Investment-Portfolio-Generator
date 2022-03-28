@@ -8,10 +8,10 @@ espresso.ai is a quantitative portfolio asset allocation algorithm that calculat
 
 <br>
 
-**Why people choose espresso.ai?**
+**What does espresso.ai do?**
 
-This program is designed for investors who pursue a safe investment portfolio. <br>
-The portfolio is generated through analyzing stock data and further statistical analysis. 
+This algorithm is designed for investors who pursue a low-rist investment. <br>
+The portfolio is generated through analyzing stock data and further statistical analysis about trading volume and stock prices. 
 
 <br>
 
