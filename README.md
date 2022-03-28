@@ -1,7 +1,7 @@
 # espresso.ai
 
 
-# What is espresso.ai?
+What is espresso.ai?
 
 espresso.ai is a quantitative portfolio asset allocation algorithm that calculates the optimal weight distribution of a stock portfolio to minimize total volatility and subsequent risk.
 
